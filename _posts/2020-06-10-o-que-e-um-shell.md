@@ -34,7 +34,7 @@ $ chsh -l
 
 ### *Builtin* Shell
 
-Shells proporciona um pequeno conjunto de comandos internos (*builtins*) esses *builtins* são implementados internamente pelo próprio shell, em vez de um programa executável, ou um binário no sistema de arquivos. Esses *bultins* implementam funcionalidades impossíveis ou inconvenientes para se obter via utilitários separados.
+Shells proporciona um pequeno conjunto de comandos internos (*builtins*) esses *builtins* são implementados internamente pelo próprio shell, em vez de um programa executável, ou um binário no sistema de arquivos. Esses *builtins* implementam funcionalidades impossíveis ou inconvenientes para se obter via utilitários separados.
 
 Esses comandos foram herdados do *sh*, são implementados como uma especificação do padrão POSIX(Uma família de padrões de sistemas abertos baseados no Unix)
 **pwd**, **cd**, **exit**, **times**, **exec**, **export**, **alias**, **echo**, **source**, etc
